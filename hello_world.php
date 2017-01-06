@@ -1,0 +1,1 @@
+﻿<?phpecho "Hello World!";?>
